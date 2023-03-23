@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 title: Rcoven's homepage
 description: Site for upcoming class projects and assignments
-[Cartoons](https://github.com/rcoven24/rcoven24.github.io/cartoons.html)
-[New User](https://github.com/rcoven24/rcoven24.github.io/newuser.html)
+links:
+  name: Cartoons
+  url: https://github.com/rcoven24/rcoven24.github.io/cartoons.html
+  name: New User
+  url: https://github.com/rcoven24/rcoven24.github.io/newuser.html
