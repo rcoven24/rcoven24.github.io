@@ -3,3 +3,5 @@
 [Cartoons](cartoons.html)
 
 [New User](newuser.html)
+
+[Web Components](index.html)
